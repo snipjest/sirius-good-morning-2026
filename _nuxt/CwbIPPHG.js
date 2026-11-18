@@ -1,0 +1,1 @@
+import{b as e,mt as t,xt as n}from"./ihrCUFcz.js";import{y as r}from"#entry";var i={},a={class:`blank-layout`};function o(r,i){return t(),e(`div`,a,[n(r.$slots,`default`)])}var s=r(i,[[`render`,o]]);export{s as default};
